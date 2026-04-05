@@ -1,0 +1,184 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{13}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{} and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showURL}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showURL #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[Devlin et~al\mbox{.}(2019)]%
+        {devlin2019bert}
+\bibfield{author}{\bibinfo{person}{Jacob Devlin}, \bibinfo{person}{Ming-Wei
+  Chang}, \bibinfo{person}{Kenton Lee}, {and} \bibinfo{person}{Kristina
+  Toutanova}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{BERT: Pre-training of Deep Bidirectional
+  Transformers for Language Understanding}. In
+  \bibinfo{booktitle}{\emph{Proceedings of NAACL-HLT}}.
+  \bibinfo{pages}{4171--4186}.
+\newblock
+
+
+\bibitem[Geirhos et~al\mbox{.}(2020)]%
+        {geirhos2020shortcut}
+\bibfield{author}{\bibinfo{person}{Robert Geirhos},
+  \bibinfo{person}{J\"orn-Henrik Jacobsen}, \bibinfo{person}{Claudio
+  Michaelis}, \bibinfo{person}{Richard Zemel}, \bibinfo{person}{Wieland
+  Brendel}, \bibinfo{person}{Matthias Bethge}, {and} \bibinfo{person}{Felix~A.
+  Wichmann}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Shortcut Learning in Deep Neural Networks}.
+\newblock \bibinfo{journal}{\emph{Nature Machine Intelligence}}
+  \bibinfo{volume}{2} (\bibinfo{year}{2020}), \bibinfo{pages}{665--673}.
+\newblock
+
+
+\bibitem[Gjurkovi{\'c} and {\v{S}}najder(2018)]%
+        {gjurkovic2018reddit}
+\bibfield{author}{\bibinfo{person}{Matej Gjurkovi{\'c}} {and}
+  \bibinfo{person}{Jan {\v{S}}najder}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Reddit: A Gold Mine for Personality Prediction}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the Second Workshop on Computational
+  Modeling of People's Opinions, Personality, and Emotions in Social Media}}.
+  \bibinfo{pages}{87--97}.
+\newblock
+
+
+\bibitem[Gururangan et~al\mbox{.}(2018)]%
+        {gururangan2018annotation}
+\bibfield{author}{\bibinfo{person}{Suchin Gururangan}, \bibinfo{person}{Swabha
+  Swayamdipta}, \bibinfo{person}{Omer Levy}, \bibinfo{person}{Roy Schwartz},
+  \bibinfo{person}{Samuel~R. Bowman}, {and} \bibinfo{person}{Noah~A. Smith}.}
+  \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Annotation Artifacts in Natural Language Inference
+  Data}. In \bibinfo{booktitle}{\emph{Proceedings of NAACL-HLT}}.
+  \bibinfo{pages}{107--112}.
+\newblock
+
+
+\bibitem[Jain and Wallace(2019)]%
+        {jain2019attention}
+\bibfield{author}{\bibinfo{person}{Sarthak Jain} {and}
+  \bibinfo{person}{Byron~C. Wallace}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Attention Is Not Explanation}. In
+  \bibinfo{booktitle}{\emph{Proceedings of NAACL-HLT}}.
+  \bibinfo{pages}{3543--3556}.
+\newblock
+
+
+\bibitem[Khalid(2024)]%
+        {mbti500_kaggle}
+\bibfield{author}{\bibinfo{person}{Zeyad Khalid}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \bibinfo{title}{MBTI Personality Types 500 Dataset}.
+\newblock
+  \bibinfo{howpublished}{\url{https://www.kaggle.com/datasets/zeyadkhalid/mbti-personality-types-500-dataset/data}}.
+\newblock
+\newblock
+\shownote{Kaggle dataset}.
+
+
+\bibitem[Lundberg and Lee(2017)]%
+        {lundberg2017unified}
+\bibfield{author}{\bibinfo{person}{Scott~M. Lundberg} {and}
+  \bibinfo{person}{Su-In Lee}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{A Unified Approach to Interpreting Model
+  Predictions}. In \bibinfo{booktitle}{\emph{Advances in Neural Information
+  Processing Systems}}, Vol.~\bibinfo{volume}{30}.
+\newblock
+
+
+\bibitem[Majumder et~al\mbox{.}(2017)]%
+        {majumder2017deep}
+\bibfield{author}{\bibinfo{person}{Navonil Majumder}, \bibinfo{person}{Soujanya
+  Poria}, \bibinfo{person}{Alexander Gelbukh}, {and} \bibinfo{person}{Erik
+  Cambria}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Deep Learning-Based Document Modeling for
+  Personality Detection from Text}. In \bibinfo{booktitle}{\emph{IEEE
+  Intelligent Systems}}, Vol.~\bibinfo{volume}{32}. \bibinfo{pages}{74--79}.
+\newblock
+
+
+\bibitem[Majumder et~al\mbox{.}(2020)]%
+        {majumder2020deep}
+\bibfield{author}{\bibinfo{person}{Navonil Majumder}, \bibinfo{person}{Soujanya
+  Poria}, \bibinfo{person}{Alexander Gelbukh}, {and} \bibinfo{person}{Erik
+  Cambria}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Deep Learning-Based Document Modeling for
+  Personality Detection from Text}.
+\newblock \bibinfo{journal}{\emph{IEEE Intelligent Systems}}
+  \bibinfo{volume}{35}, \bibinfo{number}{2} (\bibinfo{year}{2020}),
+  \bibinfo{pages}{74--79}.
+\newblock
+
+
+\bibitem[Ribeiro et~al\mbox{.}(2016)]%
+        {ribeiro2016lime}
+\bibfield{author}{\bibinfo{person}{Marco~Tulio Ribeiro},
+  \bibinfo{person}{Sameer Singh}, {and} \bibinfo{person}{Carlos Guestrin}.}
+  \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{{``Why Should I Trust You?''}: Explaining the
+  Predictions of Any Classifier}. In \bibinfo{booktitle}{\emph{Proceedings of
+  KDD}}. \bibinfo{pages}{1135--1144}.
+\newblock
+
+
+\bibitem[Sagawa et~al\mbox{.}(2020)]%
+        {sagawa2020investigation}
+\bibfield{author}{\bibinfo{person}{Shiori Sagawa}, \bibinfo{person}{Aditi
+  Raghunathan}, \bibinfo{person}{Pang~Wei Koh}, {and} \bibinfo{person}{Percy
+  Liang}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{An Investigation of Why Overparameterization
+  Exacerbates Spurious Correlations}.
+\newblock \bibinfo{journal}{\emph{Proceedings of ICML}} (\bibinfo{year}{2020}),
+  \bibinfo{pages}{8346--8356}.
+\newblock
+
+
+\bibitem[Serrano and Smith(2019)]%
+        {serrano2019attention}
+\bibfield{author}{\bibinfo{person}{Sofia Serrano} {and}
+  \bibinfo{person}{Noah~A. Smith}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Is Attention Interpretable?}. In
+  \bibinfo{booktitle}{\emph{Proceedings of ACL}}. \bibinfo{pages}{2931--2951}.
+\newblock
+
+
+\bibitem[Sundararajan et~al\mbox{.}(2017)]%
+        {sundararajan2017axiomatic}
+\bibfield{author}{\bibinfo{person}{Mukund Sundararajan}, \bibinfo{person}{Ankur
+  Taly}, {and} \bibinfo{person}{Qiqi Yan}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Axiomatic Attribution for Deep Networks}. In
+  \bibinfo{booktitle}{\emph{Proceedings of ICML}}. \bibinfo{pages}{3319--3328}.
+\newblock
+
+
+\end{thebibliography}
